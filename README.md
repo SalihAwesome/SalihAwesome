@@ -12,7 +12,7 @@ I am a computer engineering student at Qatar University, passionate about explor
 
 ## 🎓 About Me
 
-Just a regular guy 👨‍💻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salihalhaj/)
+Just a regular guy 👨‍💻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salih-alhaj/)
 
 
 
