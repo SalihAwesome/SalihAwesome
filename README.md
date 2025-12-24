@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Salih Alhaj</h1>
 
 # 💫 About Me:
-I am a computer engineering student at Qatar University, passionate about exploring the realms of coding, software engineering, and building robotics.
+I am a computer engineering student at Qatar University, passionate about exploring the realms of coding, AI engineering, and building robotics.
 
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Software Engineering
+- 🤖 Exploring AI Engineering
 - 💻 Building Spring Boot applications
 
 
